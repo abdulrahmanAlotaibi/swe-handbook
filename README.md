@@ -1,16 +1,9 @@
----
-description: >-
-  Collection of my notes and resources to help you get better as a software
-  engineer
-cover: https://images.hdqwalls.com/download/late-afternoon-pixel-art-71-2560x1440.jpg
-coverY: 0
----
 
 # 👋 Welcome to this handbook
-
-{% hint style="info" %}
+These are collection of my notes and resources to help you get better as a software engineer.
+  
 This is the version `1.0` , almost like a draft, I do this in my free time, so if you have suggestions or any feedback please send it on my twitter @alotaibidev or email me at a.alotaibi.dev@gmail.com
-{% endhint %}
+
 
 ### This is an in-progress project, what I'm aiming to achieve in this handbook for the year 2022
 
