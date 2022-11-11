@@ -21,7 +21,7 @@ _This is subjective from a company to another_, but from my experience (I've don
 * Communicate clearly with clear voice
 * Be honest
 
-## My approach to "can you talk about yourself?" 😱
+## My approach to "can you talk about yourself?"&#x20;
 
 I heard so many people hating this question and saying "I don't know what to say", I think this question is the best chance to express yourself, talking about your experiences, what did you like working on, and what things excited you about your internships/work experiences.
 
