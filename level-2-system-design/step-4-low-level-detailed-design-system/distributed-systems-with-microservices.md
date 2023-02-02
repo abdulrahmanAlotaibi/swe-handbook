@@ -75,7 +75,7 @@ ACID distributed Transactions in microservices : [https://developers.redhat.com/
 
 ![](<../../.gitbook/assets/image (12).png>)
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 ![](<../../.gitbook/assets/image (5).png>)
 

@@ -59,7 +59,7 @@
 2. Growth: Reading list
 3. **The Week ahead**: each week I update and maintain the month list (Levels by importance)
 
-![Untitled](<../.gitbook/assets/Untitled (1).png>)
+![Untitled](<../.gitbook/assets/Untitled (2).png>)
 
 #### PR Checklist 🚀
 
