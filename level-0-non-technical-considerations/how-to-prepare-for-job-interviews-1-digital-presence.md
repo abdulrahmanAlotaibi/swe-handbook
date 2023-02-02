@@ -82,4 +82,4 @@ Also, you can use `Webflow` or Notion resume templates to build your resume&#x20
 
 ### Ref
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)

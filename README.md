@@ -2,7 +2,9 @@
 
 These are collection of my notes and resources to help you get better as a software engineer.
 
-![](https://user-images.githubusercontent.com/50620277/181411838-2b41d0ec-409b-4baa-b435-d22e67899127.png)
+<figure><img src=".gitbook/assets/Black and Yellow Modern Two Side Book Cover.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 {% hint style="info" %}
 This is the version `1.0` , almost like a draft, I do this in my free time, so if you have suggestions or any feedback please send it at my email a.alotaibi.dev@gmail.com
