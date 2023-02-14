@@ -1,3 +1,8 @@
+---
+coverY: 0
+layout: landing
+---
+
 # 👋 Welcome to this handbook
 
 These are collection of my notes and resources to help you get better as a software engineer.
