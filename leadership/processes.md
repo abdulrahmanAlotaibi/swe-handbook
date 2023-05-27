@@ -21,5 +21,5 @@
 ### How we work
 
 * Proposals
-* code reviews
-* pair programming
+* Code reviews
+* Pair programming
