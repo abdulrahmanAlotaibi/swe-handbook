@@ -4,13 +4,13 @@ How you are going to do 1:1 meetings, performance reviews, estimate needed headc
 
 It can be cliché for average teams, but I strongly believe in having core values to build a sustainable business.&#x20;
 
-### &#x20;Clarity
+### Clarity
 
-Career laddering (after the early stage), role expectations, and company vision should be obvious to the employees, and even the roadmap should be communicated regularly.
+Career laddering (after the early stage), role expectations, and company vision should be obvious to the employees, and even the product roadmap should be communicated regularly.
 
 ### Trust
 
-1:1 meetings are confidential, you trust your leaders that they at creating growth opportunities for you and their aim to get you out of your position to a promotion. (Some examples)
+1:1 meetings are confidential, you trust your leaders that they are creating growth opportunities for you and their aim to get you out of your position to a promotion.
 
 ### Safety&#x20;
 
