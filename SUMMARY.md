@@ -31,7 +31,6 @@
   * [Develop on the cloud](level-4-productivity-handbook-for-software-engineers/develop-on-the-cloud.md)
 * [Extra](extra.md)
 * [Leadership](leadership/README.md)
-  * [On vision statement](leadership/on-vision-statement.md)
   * [Resources I like](leadership/resources-i-like.md)
   * [Processes](leadership/processes.md)
   * [Poeple](leadership/poeple.md)
