@@ -41,7 +41,7 @@ how client cope with async microservices ?&#x20;
 {% endembed %}
 
 * **Synchronous communication**
-  * Single Receiver ****&#x20;
+  * Single Receiver &#x20;
     * HTTP REST
     * gRPC
   * Multiple Receivers
@@ -75,7 +75,7 @@ ACID distributed Transactions in microservices : [https://developers.redhat.com/
 
 ![](<../../.gitbook/assets/image (12).png>)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (5).png>)
 

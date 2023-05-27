@@ -1,5 +1,9 @@
 # Leadership
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee2a609b-dfeb-406e-ada4-6c017f5ef7a3/Untitled.png)
+
 There are a lot of leadership skills needed for managing an engineering team at any scale.
 
 Unfortunately, besides lacking great engineers in the market, we also lack great leaders as well. Huge shortage.

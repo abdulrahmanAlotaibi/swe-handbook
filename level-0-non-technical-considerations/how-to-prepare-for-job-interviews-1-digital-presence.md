@@ -10,12 +10,12 @@ description: Here we will explain how to prepare your digital presence
 
 * Have a professional avatar: if you can afford professional photographer it would be perfect **but** you don't need it, just let someone takes a picture of you with clear lighting and don't be too casual
 * Your LinkedIn description should explain what you do, I prefer to keep it short and concise as bullet points
-* Underrated feature: use _`featured` _ section on LinkedIn to show your projects, certifications, and anything worth sharing in your profile. People will scan your profile (specially HR) so it would be nice to presents to readers a quick overview of your profile
+* Underrated feature: use _`featured`_ section on LinkedIn to show your projects, certifications, and anything worth sharing in your profile. People will scan your profile (specially HR) so it would be nice to presents to readers a quick overview of your profile
 
 ![](<../.gitbook/assets/image (8).png>)
 
 * Add relevant media for each experience you have
-* Use _`projects` _ section to add your projects (deployed links would be a huge plus)
+* Use _`projects`_ section to add your projects (deployed links would be a huge plus)
 
 ### Resume / CV
 
@@ -40,7 +40,11 @@ description: Here we will explain how to prepare your digital presence
   * Keep your CV simple , <mark style="color:red;">**no charts or progress bars**</mark>, either yow know the skill or not &#x20;
   * **❌**
 
-![Don't do this](<../.gitbook/assets/image (11).png>)
+<div align="center">
+
+<img src="../.gitbook/assets/image (11).png" alt="Don&#x27;t do this">
+
+</div>
 
 * Always provide a PDF version
 * the resume file should be with your name <mark style="color:red;">**not**</mark> resume(1).pdf

@@ -12,4 +12,3 @@
 
 {% embed url="https://cheatsheetseries.owasp.org/Glossary.html" %}
 
-<mark style="background-color:orange;">****</mark>
