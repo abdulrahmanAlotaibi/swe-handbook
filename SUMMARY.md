@@ -30,3 +30,8 @@
   * [Command line tools](level-4-productivity-handbook-for-software-engineers/command-line-tools.md)
   * [Develop on the cloud](level-4-productivity-handbook-for-software-engineers/develop-on-the-cloud.md)
 * [Extra](extra.md)
+* [Leadership](leadership/README.md)
+  * [Processes](leadership/processes.md)
+  * [Poeple](leadership/poeple.md)
+  * [Delivery](leadership/delivery.md)
+  * [Transitioning to a new role](leadership/transitioning-to-a-new-role.md)
